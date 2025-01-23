@@ -25,15 +25,30 @@ document.addEventListener('DOMContentLoaded', () => {
         correctAnswer: 1
     },
     {
-        question: "Which planet is known as the Red Planet?",
-        options: ["Earth", "Venus", "Mars", "Jupiter"],
+        question: "Care este autorul romanului?",
+        options: ["Georgi Adamovici", "Constantin Badighin", "Aleksander Soljenitin", "Mihail Bulgakov"],
         correctAnswer: 2
     },
     {
-        question: "Who wrote 'Romeo and Juliet'?",
-        options: ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+        question: "Care este numarul de inregistrare a personajului principal in lagar ?",
+        options: [" CH-854 ", "CH-559", "CH-043", "CH-421"],
         correctAnswer: 0
-    }
+    },
+    {
+      question: "De ce este condamnat personajul principal?",
+      options: ["hotie", "uciderea unui om politic", "impotrivire fata de regim", "tradare a patriei mame dupa acuzatia sa de spionaj"],
+      correctAnswer: 3
+  },
+  {
+  question: "Cand reuseste autorul sa se reintoarca in Rusia?",
+  options: ["1987", "2005", "1994", "1996"],
+  correctAnswer: 3
+},
+{
+  question: "In ce perioada de timp a existat sistemul de lagare din Rusia?",
+  options: ["1920-1950", "1910-1930", "1915-1960", "1950-1970"],
+  correctAnswer: 0
+},
   ];
   
   
