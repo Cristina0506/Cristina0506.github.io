@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+window.onload = function () {
     const loggedInUser = sessionStorage.getItem('loggedInUser');
   
     if (!loggedInUser) {
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       sessionStorage.removeItem('loggedInUser');
       window.location.href = 'login.html';
     });
-  });
+}
   const quizQuestions = [
 
 
