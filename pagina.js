@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
   question: "In ce perioada de timp a existat sistemul de lagare din Rusia?",
   options: ["1920-1950", "1910-1930", "1915-1960", "1950-1970"],
   correctAnswer: 0
-},
+}
   ];
   
   
