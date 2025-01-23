@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
   options: ["1920-1950", "1910-1930", "1915-1960", "1950-1970"],
   correctAnswer: 0
 }
-  ];
+   ];
   
   
   const quizContainer = document.createElement('div');
