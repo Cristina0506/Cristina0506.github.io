@@ -122,6 +122,6 @@ document.addEventListener('DOMContentLoaded', () => {
     feedbackElement.style.color = "blue";
   }
   
-  loadQuestion(); 
+  loadQuestion();
   
  
