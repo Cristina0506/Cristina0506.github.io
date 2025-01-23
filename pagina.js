@@ -48,12 +48,8 @@ window.onload = function () {
   question: "In ce perioada de timp a existat sistemul de lagare din Rusia?",
   options: ["1920-1950", "1910-1930", "1915-1960", "1950-1970"],
   correctAnswer: 0
-},
-{
-  question: "Cati oameni erau in plutonul din cabana personajului principal?",
-  options: ["15", "23", "30", "26"],
-  correctAnswer: 1
 }
+
    ];
   
   
